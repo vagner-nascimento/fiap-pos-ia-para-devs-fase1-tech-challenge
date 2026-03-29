@@ -208,3 +208,6 @@ __marimo__/
 
 env/
 estado_nuticional_sao_paulo.csv
+
+# macOS
+.DS_Store
